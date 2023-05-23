@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack developer<br>🏆 T500 2022
+💻 Full Stack developer<br>🏆 T500 2022 & 2023
 
 
 ## 🌐 Socials:
